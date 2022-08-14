@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  
+}
+.contact{
+  animation: contact-load 800ms ease-in;
+}
+
+@keyframes contact-load{
+  0%{
+    transform: translateX(50%);
+  }
+
+  100%{
+    transform: translate(0);
+  }
+}
+
