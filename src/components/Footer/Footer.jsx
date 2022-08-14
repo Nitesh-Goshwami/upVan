@@ -28,7 +28,7 @@ function Footer() {
             <FooterLink to='/'>Testimonials</FooterLink>
             <FooterLink to='/'>Careers</FooterLink>
             <FooterLink to='/'>Investors</FooterLink>
-            <FooterLink to='/'>Terms of Service</FooterLink>
+            <FooterLink to='/'>Terms of Services</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
             <FooterLinkTitle>Get Help</FooterLinkTitle>
